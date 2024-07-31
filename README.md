@@ -1,2 +1,2 @@
 # Leetcode-Problems
-All leetcode problems that i solved
+All leetcode/GeeksforGeeks problems that i solved
